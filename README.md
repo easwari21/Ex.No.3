@@ -18,7 +18,7 @@ An automated solution ensures **speed, accuracy, and easy interpretation** of me
 ---
 
 ##  Use Case
-The system automatically creates **nutritional charts** that display:
+The system automatically creates nutritional charts that display:
 - Energy content (Calories)  
 - Macronutrients (Protein, Fat, Carbs, Fiber)  
 - Allergen information  
@@ -83,7 +83,7 @@ The system automatically creates **nutritional charts** that display:
 ---
 
 ## Result
-The use of **different prompt types** successfully enabled the design of a nutritional chatbot output.  
+The use of different prompt types successfully enabled the design of a nutritional chatbot output.  
 The system ensures customer satisfaction, safety, and better decision-making in food choices.
 
 ---
@@ -91,12 +91,10 @@ The system ensures customer satisfaction, safety, and better decision-making in 
 ## Conclusion
 - Prompt engineering guided the chatbot design.  
 - Different prompt types ensured clarity, usability, and value-added features.  
-- Final output is a **visual, structured, and user-friendly nutritional chart** that can be deployed in real-world restaurant or food-delivery systems.  
+- Final output is a visual, structured, and user-friendly nutritional chart that can be deployed in real-world restaurant or food-delivery systems.  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f08cb4c-4a1f-46d9-8d1b-6ae398da0a96" />
 
 ---
 
-## 📷 Conclusion Illustration
-![Conclusion Chart](conclusion.png)  
-*(Attach your conclusion image here as `conclusion.png` in your repo)*
 
 ---
